@@ -1,7 +1,7 @@
 ### My Learning Notes 
 ## What I Learned From the Exercises
 
-###Learning Exercises
+### Learning Exercises
 
 ## (1) hello-world
 * **Syntax:** How to use the "print()" function to output text.
