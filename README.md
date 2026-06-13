@@ -26,5 +26,5 @@
       * **The Job Value ("Hover" Effect)**
         * **Teamwork**: colleagues can see exactly what your function expects without reading your actual code line-by-line.
         * **The Hover Feature**: When typing a function in an editor (f.e. VS Code), these **:param** descriptions automatically pop up in a floating info window saving tons of time.
-    * :param parameter_name : Data Type - explanation.
-    * :return : Data Type - explanation.
+ * :param parameter_name : Data Type - explanation.
+ * :return : Data Type - explanation.
