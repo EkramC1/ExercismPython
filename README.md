@@ -1,9 +1,9 @@
 ### My Learning Notes 
 ## What I Learned From the Exercises
 
-### Learning Exercises
+### **Learning Exercises**
 
-## (1) hello-world
+### (1) hello-world
 * **Syntax:** How to use the "print()" function to output text.
 * **Strings:** Text must always be enclosed in quotes ("TEXT").
 
@@ -14,3 +14,11 @@
 
 ### (3) ghost-gobble-arcade-game
 * **Booleans:** Applied the theory of truth values (True/False) in a practical way. Solved logical conditions (like in the Pac-Man exercise) compactly using and, or, and not operators directly via return.
+
+### (4) currency-exchange
+#Python Math & Data Types:
+* int and float
+* **% Modulo:** Calculates only the remainder of a division ( 7 % 4 results in 3, because 3 is what is left over).
+* **// Floor Division:** Divides two numbers and chops off everything after the decimal point ( 7 // 4 results in 1, would result in 1.75 in a normal division).
+
+* After analyzing the code of others, I realized that I could shorten the docstrings. Also, I noticed that others write the last function differently than I did. Their version was much shorter, and they used better variable names, which made the code cleaner and still successful. Mine is a clear and easy understandable documentation. I still want to try their version in the next exercices. 
