@@ -31,3 +31,9 @@
  * :return : Data Type - explanation.
 
 ### (5) Meltdown Mitigation
+* If, elif, else
+* Narrowest condition on top!
+   * the code is read from top to bottom. As soon as one condition is met, Python stops checking the rest. Therefore, I have to check the extreme danger category first, then checking the general warning category below it.
+* Percentages are Decimals: To use percentages in the code, I must always convert them into decimals by shifting the decimal point **two places to the left** (:100)
+   * 90% of x is (0.9 * x)
+   * 110% of x is (1.1 * x)
