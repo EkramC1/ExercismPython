@@ -37,3 +37,7 @@
 * **Percentages are Decimals:** To use percentages in the code, I must always convert them into decimals by shifting the decimal point **two places to the left** (:100)
    * 90% of x is (0.9 * x)
    * 110% of x is (1.1 * x)
+ 
+### (6) Black Jack
+* **Function Chaining:** Practiced structuring and chaining multiple conditions inside functions using clean "if", "elif", and "else" logic. I do not have to write "else" in my funcion. return intended as "if/else" is enough.
+* **Type Conversion:** Remembered to convert strings into proper numerical values (like integers or floats) before performing mathematical comparisons.
